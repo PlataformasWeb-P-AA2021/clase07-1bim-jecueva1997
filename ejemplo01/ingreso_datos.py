@@ -20,6 +20,7 @@ session = Session()
 club1 = Club(nombre="Barcelona", deporte="Fútbol", \
         fundacion=1920)
 
+
 club2 = Club(nombre="Emelec", deporte="Fútbol", \
         fundacion=1930)
 
